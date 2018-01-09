@@ -87,6 +87,17 @@ a{
     left: 6em;
 }
 
+.boxes{
+    float: left;
+    Height: 20em;
+    Width: 20em;
+    padding: 1em;
+    position: relative;
+    top: 1em;
+
+
+}
+
 .underline{
     text-decoration: underline;
 }
