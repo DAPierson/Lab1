@@ -75,9 +75,16 @@ a{
 .left{
     float: left;
     position: relative;
-    top: 4em;
     left: 15em;
-    
+    }
+
+.left h2{
+    font-size: 4em;
+}
+
+.left h3{
+    font-size: 2em;
+    font-weight: bold;
 }
 .box{
     float: left;
